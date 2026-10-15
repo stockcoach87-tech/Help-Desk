@@ -1,4 +1,4 @@
-HELP DESK WEBSITE — SETUP GUIDE
+DESK HELP WEBSITE — SETUP GUIDE
 
 FILES INCLUDED
 - index.html         Main website page
